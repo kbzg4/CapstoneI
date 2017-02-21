@@ -7,6 +7,9 @@
 ## team info (1)
 
 ## introduction(2)
+Team Name: Squad
+Goal: To identify bias in news articles. 
+
 
 ## Problem statement and solution (3)
 
